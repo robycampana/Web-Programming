@@ -3,9 +3,9 @@ include 'header.php';
 ?>
 
     <main>
-        <h2>About Us</h2>
-        <p>Bad bihs trying to get a bag</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, recusandae aliquid mollitia, nulla sequi iusto reprehenderit rem, autem minima et expedita debitis? Porro, mollitia. Laborum atque eaque hic voluptate explicabo.</p>
+        <h2>About Moi</h2>
+        <p>Bad bih geting her bag.</p>
+        <p>I'm currently a first-year student in HAMK, studying Computer Applications. The name of my current course is Web Programming and this website is an example/assignment of the course.</p>
     </main>
 
     

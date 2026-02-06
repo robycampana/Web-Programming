@@ -12,7 +12,7 @@
         }
         else
         {
-            echo "EVOLVE";
+            echo "EVOLUTION";
         }
         ?>
     </title>
@@ -22,10 +22,10 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #fc58a4;
         }
         header {
-            background-color: #333;
+            background-color: #8c1a68;
             color: white;
             padding: 20px;
             text-align: center;
@@ -60,13 +60,13 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
-        <p>Your go-to source for web development tutorials</p>
+        <h1>Welcome to Roby's Website AKA learning assignment</h1>
+        <p>This is where I'll be trying and test out things I learn.</p>
 
     <nav>
         <a href="main.php">Home</a>
-        <a href="aboutus.php">About Us</a>
-        <a href="contactus.php">Contact Us</a>
+        <a href="aboutus.php">About Moi</a>
+        <a href="contactus.php">Contact Moi</a>
 
 
     </nav>
