@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> <?php echo $title; ?></title>
 
     <title>
@@ -30,6 +30,22 @@
             padding: 20px;
             text-align: center;
         }
+        nav {
+            margin-top:10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover{
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
         footer {
             background-color: #333;
             color: white;
@@ -39,16 +55,21 @@
             bottom: 0;
             width: 100%;
         }
-        main {
-            padding: 20px;
-            text-align: center;
-        }
+
     </style>
 </head>
 <body>
     <header>
         <h1>Welcome to My Website</h1>
         <p>Your go-to source for web development tutorials</p>
+
+    <nav>
+        <a href="main.php">Home</a>
+        <a href="aboutus.php">About Us</a>
+        <a href="contactus.php">Contact Us</a>
+
+
+    </nav>
     </header>
 
 
