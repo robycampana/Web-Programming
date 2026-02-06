@@ -9,9 +9,6 @@ include 'header.php';
     </main>
 
     
-</body>
-</html>
-
 <?php
 include 'footer.php';
 ?>

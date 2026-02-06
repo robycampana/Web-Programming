@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+    <?php include 'header.php'; ?>
 <head>
     <meta charset="UTF-8">
     <title>Exercise 1: Getting Started with PHP - Roby</title>
 </head>
+
+
+
 <body>
 
 <h3>Task 3: PHP Output</h3>
@@ -53,5 +57,6 @@ $g3 = 5;
 <h3>Development Environment Screenshot</h3>
 <img src="Screenshot.png" alt="Environment setup screenshot" width="300">
 
+<?php include 'footer.php'; ?>
 </body>
 </html>
