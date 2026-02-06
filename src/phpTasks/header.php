@@ -66,16 +66,17 @@
         main {
             padding: 20px;
             text-align: center;
+            flex: -1;       
         }
         footer {
             background-color: #132440;
             color: white;
             padding: 10px;
             text-align: center;
-            position: absolute;
-            bottom: 0;
-            width: 100%;
+
         }
+      
+        
 
     </style>
 </head>

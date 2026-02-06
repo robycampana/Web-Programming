@@ -57,6 +57,7 @@ $g3 = 5;
 <h3>Development Environment Screenshot</h3>
 <img src="Screenshot.png" alt="Environment setup screenshot" width="300">
 
-<?php include 'footer.php'; ?>
 </body>
 </html>
+
+<?php include 'footer.php'; ?>
