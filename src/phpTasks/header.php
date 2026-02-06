@@ -20,12 +20,11 @@
         html,body {
             height: 100%;
             margin: 0;
-            padding: 0;
         }
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
+            display: flex;
+            flex-direction: column;
             background-color: #EAEFEF;
         }
         header {
@@ -64,9 +63,9 @@
             transform: translateY(-2px);
         }
         main {
+            flex : 1;
             padding: 20px;
-            text-align: center;
-            flex: -1;       
+            text-align: center;   
         }
         footer {
             background-color: #132440;
