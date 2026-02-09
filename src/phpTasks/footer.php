@@ -1,5 +1,9 @@
 <footer>
-        <p>&copy; 2026 My Progress. All rights reserver.</p>
+    <?php
+        $filename = basename($_SERVER['PHP_SELF']);
+        $lastModified = filemtime($filename);
 
-        <!-- Your footer content goes here -->
+        echo "Last modified: " . date("F d, Y h:i A", $lastModified);
+    ?>
+        <p>&copy; 2026 My Progress. All rights reserved.</p>
     </footer>

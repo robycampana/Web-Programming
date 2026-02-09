@@ -74,6 +74,50 @@
             text-align: center;
 
         }
+        .form-container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            width: 300px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 6px;
+            font-weight: bold;
+            color: #132440;
+        }
+
+        input {
+            padding: 8px;
+            margin-bottom: 16px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            background-color: #3B9797;
+            color: #132440;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        button:hover {
+            background-color: #ffffff;
+            border: 2px solid #3B9797;
+            transform: translateY(-2px);
+        }
+
+        h3 {
+            margin-top: 20px;
+            color: #132440;
+        }
       
         
 
