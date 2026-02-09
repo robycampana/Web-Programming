@@ -3,7 +3,8 @@ include 'header.php';
 ?>
 
 <main>
-    <h2>Exercise 3: Variable, Strings & Operators</h2>
+    <h2>Exercise 3: Variable, Strings & Operators.</h2>
+    <h2>Form Creation</h2>
     <form method="post">
         <label>
             First name:
@@ -21,11 +22,12 @@ include 'header.php';
     </form>
 
     <?php
-    if (isset($_POST['firstname']) && isset($_POST['lastname'])) {
-    $firstname = $_POST['firstname'];
-    $lastname = $_POST['lastname'];
+    if (isset($_POST['firstname']) && isset($_POST['lastname'])) 
+    {
+        $firstname = $_POST['firstname'];
+        $lastname = $_POST['lastname'];
 
-    echo "<h3>Hello $firstname $lastname, You are welcome to my site.</h3>";
+        echo "<h3>Hello $firstname $lastname, You are welcome to my site.</h3>";
     }
     ?>
 
