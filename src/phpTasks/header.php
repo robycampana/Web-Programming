@@ -91,6 +91,7 @@
         <a href="contactus.php">Contact Moi</a>
         <a href="ex1.php">EX.1</a>
         <a href="ex3.php">EX.3</a>
+        <a href="ex4.php">EX.4</a>
 
     </nav>
     
