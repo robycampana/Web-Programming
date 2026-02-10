@@ -28,7 +28,7 @@
             background-color: #EAEFEF;
         }
         header {
-            background-color: #d20532;
+            background-color: #F5276C;
             color: white;
             padding:30px 20px;
             text-align: center;
@@ -44,7 +44,7 @@
         }
         nav {
             padding : 10px;
-            background-color: #3B9797;
+            background-color: #27D3F5;
             text-align: center;
             width: 100%;
         }

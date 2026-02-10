@@ -8,7 +8,6 @@
 </head>
 
 
-
 <body>
 
 <h3>Task 3: PHP Output</h3>
