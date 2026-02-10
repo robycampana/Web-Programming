@@ -98,7 +98,7 @@
         }
 
         button {
-            background-color: #3B9797;
+            background-color: #27D3F5;
             color: #132440;
             border: none;
             padding: 10px 20px;
@@ -110,7 +110,7 @@
 
         button:hover {
             background-color: #ffffff;
-            border: 2px solid #3B9797;
+            border: 2px solid #27D3F5;
             transform: translateY(-2px);
         }
 
