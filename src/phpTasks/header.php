@@ -136,7 +136,6 @@
         <a href="ex1.php">EX.1</a>
         <a href="ex3.php">EX.3</a>
         <a href="ex4.php">EX.4</a>
-        <a href="readme.md">EX.5</a>
 
     </nav>
     
